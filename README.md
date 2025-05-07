@@ -20,4 +20,4 @@ To create a new branch :
 git checkout -b feature-readme-instructions
 
 To move to a particular branch :
-git checkout brnachname
+git checkout branchname
