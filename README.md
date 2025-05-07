@@ -24,3 +24,9 @@ git checkout feature-readme-instructions
 
 To set upstream :
 git push -u origin feature-readme-instructions
+
+To get changes made to local environment :
+git pull -u origin main
+
+to delete the branch :
+git branch -d feature-readme-instructions
