@@ -30,3 +30,9 @@ git pull -u origin main
 
 to delete the branch :
 git branch -d feature-readme-instructions
+
+TO get the branch commited id:
+git log
+
+To revert the branch :
+git reset committedid
