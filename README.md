@@ -20,4 +20,7 @@ To create a new branch :
 git checkout -b feature-readme-instructions
 
 To move to a particular branch :
-git checkout branchname
+git checkout feature-readme-instructions
+
+To set upstream :
+git push -u origin feature-readme-instructions
